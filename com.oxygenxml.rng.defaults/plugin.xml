@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.oxygenxml.rng.defaults">
+  <feature extension="dita.conductor.lib.import" file="lib/dita-ng.jar"/>
+    <feature extension="dita.conductor.lib.import" file="lib/trang.jar"/>
+    <feature extension="dita.conductor.lib.import" file="lib/jing.jar"/>
+</plugin>
