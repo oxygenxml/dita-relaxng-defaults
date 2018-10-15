@@ -12,3 +12,9 @@ If you are referring to a custom RNG-based DITA specialization, the specializati
 
 The JAR libraries for this plugin have been either copied from or generated using the GitHub project:
 https://github.com/georgebina/dita-ng
+
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/dita-relaxng-defaults/blob/master/LICENSE)
